@@ -1,7 +1,7 @@
 {
-  "name": "astroid-v3",
+  "name": "hamigakiko-v1",
   "version": "3.1",
-  "description": "Astroid, a proxy that supports now.gg and uses Ultraviolet, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!",
+  "description": "HamiGakikoV1はAstroidを改造して最小限の機能に留めておいたものです",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
